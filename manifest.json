@@ -1,0 +1,7 @@
+{
+    "name": "CustomEjectMessage",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/sandwh1ched/R2NS-CustomEjectMessage",
+    "description": "Uses custom localization to set a custom eject message that happens each time",
+    "dependencies": []
+}

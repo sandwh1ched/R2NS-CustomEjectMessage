@@ -1,0 +1,13 @@
+{
+	"Name": "sandwh1ched.CustomEjectMessage",
+	"Description": "Uses custom localization to set a custom eject message that happens each time",
+	"LoadPriority": 1,
+	"RequiredOnClient": false,
+	"Version": "0.1.0",
+	"ConVars": [],
+	"ConCommands": [],
+	"Scripts": [],
+	"Localisation": [
+		"resource/customem_english.txt"
+	]
+}
