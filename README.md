@@ -5,6 +5,7 @@ If you really want to set up fast, read §1.2.
 
 ## 1. Synopsis
 ### 1.1. Intro
+![Mod icon (screenshots coming soon)](icon.png)  
 This mod for Titanfall 2 uses the Northstar client & modloader.
 
 ### 1.2. Set up
